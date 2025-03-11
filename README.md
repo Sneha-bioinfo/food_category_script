@@ -1,2 +1,2 @@
 # food_category_script
-code to ctegorize food recommendation
+code to categorize food recommendation
